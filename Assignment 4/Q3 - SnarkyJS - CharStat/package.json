@@ -1,0 +1,30 @@
+{
+  "name": "character-statistics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "npx tsc && node dist/char_stat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Globallager/zku.ONE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPLv3",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Globallager/zku.ONE/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=6.0.0"
+  },
+  "homepage": "https://github.com/Globallager/zku.ONE/tree/main/Assignment%204/Q3%20-%20SnarkyJS%20-%20CharStat#character-statistics",
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "snarkyjs": "^0.1.11",
+    "typescript": "^4.5.2"
+  }
+}
